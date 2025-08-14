@@ -6,7 +6,7 @@ Este projeto consiste na recriação da **interface da página inicial do YouTub
 
 ## 📸 Prévia do Projeto
 
-![Prévia do Projeto](./assets/images/youtube1.png)
+![Prévia do Projeto](./assets/images/youtube 1.png
 
 ---
 
